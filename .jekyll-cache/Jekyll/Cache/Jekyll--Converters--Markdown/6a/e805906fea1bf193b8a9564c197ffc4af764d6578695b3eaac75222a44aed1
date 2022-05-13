@@ -1,46 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Joseph's Notation | The Needlessly Complex Fledgling Mission to Autonomously Propagate Plants</title>
-  
-  <link rel="stylesheet" href="/assets/css/post.css" />
-  <link rel="stylesheet" href="/assets/css/syntax.css" />
-  
-  <link rel="stylesheet" href="/assets/css/common.css" />
-  <script src="/assets/js/categories.js"></script>
-  
-  <script defer src="/assets/js/lbox.js"></script>
-  
-</head>
-
-  <body>
-    <main>
-      <header>
-  <a class="site-title" href="/">Joseph's Notation</a>
-</header>
-
-      <section class="article">
-        <div class="article-header">
-          <h2 class="article-title">The Needlessly Complex Fledgling Mission to Autonomously Propagate Plants</h2>
-          <small class="date">13 May 2022</small>
-          <div class="categories">
-            
-            <a href="#!" class="category">Kotlin</a>
-            
-            <a href="#!" class="category">React</a>
-            
-            <a href="#!" class="category">DIY</a>
-            
-            <a href="#!" class="category">Electronics</a>
-            
-            <a href="#!" class="category">Irrigation Project</a>
-            
-          </div>
-        </div>
-        <div class="content"><p>At the start of 2022 I set out on a goal to build an automated irrigation system for my sad and vacant courtyard garden. Rather than walking down the sane path of purchasing an off-the-shelf system, I chose to build a completely custom set-up from scratch.</p>
+I"$	<p>At the start of 2022 I set out on a goal to build an automated irrigation system for my sad and vacant courtyard garden. Rather than walking down the sane path of purchasing an off-the-shelf system, I chose to build a completely custom set-up from scratch.</p>
 
 <p>There are a few reasons why I chose this avenue; firstly, my frontend development skills have become rusty over the past few months of nothing but backend development work, and secondly, I like a challenge. This project would involve working with small electronics, 3D modelling and printing, carpentry and programming. Out of those listed 4 core aspects, the only thing I held experience in was programming. So I had a lot to learn. The final reason I chose this project was privacy. So many of our devices have tracking systems in them in one way or another, and although I probably shouldn’t care if a third party can track when I water my plants, I do.</p>
 
@@ -61,18 +19,4 @@
 <p>For the brains of the operation I chose to use my old Raspberry Pi Zero Wireless. This little computer would control the flow of information and save all data to a non- relational database (MongoDB). The planter nodes would be controlled via an ESP8266 node with a capacitive moisture sensor – this node would use Wi-Fi to communicate with the server. The user interface would be built using the ReactJS framework which would be hosted on the Raspberry Pi.</p>
 
 <p>The plans had been drawn up, and the technology selected. I felt unstoppable, I had a plan fueled by confidence and blind arrogance, blissfully unaware of the sole crushing hurdles that lay ahead.</p>
-</div>
-      </section>
-      <footer>
-  <p>&copy; 1947 - 2022 | Joseph's Notation</p>
-</footer>
-
-    </main>
-    <section id="category-modal-bg"></section>
-<section id="category-modal">
-  <h1 id="category-modal-title"></h1>
-  <section id="category-modal-content"></section>
-</section>
-
-  </body>
-</html>
+:ET

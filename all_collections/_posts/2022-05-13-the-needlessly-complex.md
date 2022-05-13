@@ -5,9 +5,9 @@ date: 2022-05-13
 categories: ["Kotlin", "React", "DIY", "Electronics", "Irrigation Project"]
 ---
 
-At the start of 2022 I set out on a goal to build an automated irrigation system for my sad and vacant courtyard garden. Rather than walking down the sane path of purchasing an off- the- shelf system, I chose to build a completely custom set-up from scratch.
+At the start of 2022 I set out on a goal to build an automated irrigation system for my sad and vacant courtyard garden. Rather than walking down the sane path of purchasing an off-the-shelf system, I chose to build a completely custom set-up from scratch.
 
-There are a few reasons why I chose this avenue; firstly, my frontend development skills have become rusty over the past few months of nothing but backend development work, and. secondly, I like a challenge. This project would involve working with small electronics, 3D modelling and printing, carpentry and programming. Out of those listed 4 core aspects, the only thing I held experience in was programming. So I had a lot to learn. The final reason I chose this project was privacy. So many of our devices have tracking systems in them in one way or another, and although I probably shouldn’t care if a third party can track when I water my plants, I do.
+There are a few reasons why I chose this avenue; firstly, my frontend development skills have become rusty over the past few months of nothing but backend development work, and secondly, I like a challenge. This project would involve working with small electronics, 3D modelling and printing, carpentry and programming. Out of those listed 4 core aspects, the only thing I held experience in was programming. So I had a lot to learn. The final reason I chose this project was privacy. So many of our devices have tracking systems in them in one way or another, and although I probably shouldn’t care if a third party can track when I water my plants, I do.
 
 #### The Plan
 At the start I was a little ambitious, below is a list of all the key factors.
